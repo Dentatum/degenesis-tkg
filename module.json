@@ -1,0 +1,20 @@
+{
+  "id": "degenesis-tkg",
+  "title": "Degenesis: Rebirth - The Killing Game",
+  "version": "0.1",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+        "packs": [
+        {
+            "name": "actors",
+            "label": "TKG - Actors",
+            "path": "packs/tkg-actors",
+			"banner": "/modules/degenesis-tkg/packs/assets/banners/tkg-actors.png",
+            "system": "degenesis",
+            "type": "Actor",
+            "entity": "tkg-actors"
+        }
+
+}
