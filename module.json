@@ -6,15 +6,16 @@
     "minimum": "11",
     "verified": "11"
   },
-        "packs": [
-        {
-            "name": "actors",
-            "label": "TKG - Actors",
-            "path": "packs/tkg-actors",
-			"banner": "/modules/degenesis-tkg/packs/assets/banners/tkg-actors.png",
-            "system": "degenesis",
-            "type": "Actor",
-            "entity": "tkg-actors"
-        }
-
+  "packs": [
+  {
+    "name": "actors",
+    "label": "TKG - Actors",
+    "path": "packs/tkg-actors",
+	"banner": "/modules/degenesis-tkg/packs/assets/banners/tkg-actors.png",
+    "system": "degenesis",
+    "type": "Actor",
+    "entity": "tkg-actors"
+  },
+	"manifest": "https://raw.githubusercontent.com/Dentatum/degenesis-tkg/master/module.json",
+	"download": "https://github.com/Dentatum/degenesis-tkg/archive/refs/heads/master.zip"
 }
