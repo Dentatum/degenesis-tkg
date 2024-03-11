@@ -1,11 +1,30 @@
 {
     "id": "degenesis-tkg",
     "title": "Degenesis: Rebirth - The Killing Game",
-    "version": "0.1",
+    "version": "0.2",
     "compatibility": {
         "minimum": "11",
         "verified": "11"
     },
+    "relationships": {
+        "systems": [
+            {
+                "id": "degenesis",
+                "type": "system",
+                "compatibility": {
+                    "minimum": "0.6.1.2",
+                    "verified": "0.6.2.1"
+                }
+            }
+        ]
+    },
+    "authors": [
+        {
+            "name": "Dentatum",
+            "discord": ".dentatum",
+            "flags": {}
+        }
+    ],
     "packs": [
         {
             "name": "actors",
